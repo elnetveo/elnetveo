@@ -8,7 +8,7 @@
 
 ## 🧠 Mes compétences
 <p align="left">
-  <img src="(https://skillicons.dev/icons?i=html,css,js,php,python,sql,c,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,c,git,github" />
 </p>
 
 ---
